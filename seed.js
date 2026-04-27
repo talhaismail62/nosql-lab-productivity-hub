@@ -88,7 +88,7 @@ const { connect } = require('./db/connection');
       { title: "subtask one", done: false }
     ],
     description: "Hum achaar daalte hain",         // schema flexibility
-    dueDate: new Date('2026-4-28T23:59:00Z'),               // schema flexibility
+    dueDate: new Date('2026-4-26T23:59:00Z'),               // schema flexibility
     createdAt: new Date()
   }) 
 
@@ -103,7 +103,7 @@ const { connect } = require('./db/connection');
       { title: "subtask one", done: false }
     ],
     description: "Hum achaar daalte hain",         // schema flexibility
-    dueDate: new Date('2026-4-27T23:59:00Z'),               // schema flexibility
+    dueDate: new Date('2026-4-25T23:59:00Z'),               // schema flexibility
     createdAt: new Date()
   }) 
 
